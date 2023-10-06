@@ -15,9 +15,9 @@ spec:
         service: backend-coworking
     spec:
       containers:
-        - image: 796587031424.dkr.ecr.us-east-1.amazonaws.com/udacity-prj3-ecr:latest
+        - image: 214198550451.dkr.ecr.us-east-1.amazonaws.com/udacity-project3:latest
           name: backend-coworking
-          imagePullPolicy: Always
+          imagePullPolicy: Always 
           ports:
             - containerPort: 5153
           livenessProbe:
