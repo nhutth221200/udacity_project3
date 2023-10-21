@@ -39,4 +39,4 @@ Configure and deploy the Project
 - Check logs from CloudWatch
 
 ---------------------------------------
-Link web:  abc
+Link web:  
